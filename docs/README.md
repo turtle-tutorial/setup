@@ -48,3 +48,5 @@ In your github repo, you should now be able to see your code! But to get it onto
 Click on settings in the tab bar, then go to pages. Set the branch to `main` and the root directory to `/`. Click save and congrats! Github will upload your code to a server (which may take a minute or so) and publish it to a URL. You only have to do this once, so if you push more code to the repository, Github will automatically upload the latest version to the website.
 
 ![Publish pages](https://raw.githubusercontent.com/turtrl/setup/main/docs/img/activate_pages.png)
+
+You can see the example site I made here by click the url to the right of the repo files or [here](https://turtrl.github.io/setup/).
